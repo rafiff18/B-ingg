@@ -20,6 +20,12 @@ Boba: Yes,  Let's go in and take a closer look.
 
 Act 2:
 
+Anna: letsgo to the library
+
+Boba: waitt a second
+
+Anna: okey lets do a small walk to the library
+
 [Inside the university library]
 
 Anna: Wow, the library is so organized. The books here must be very valuable.
