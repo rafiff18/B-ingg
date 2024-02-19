@@ -16,7 +16,7 @@ Boba: Of course! I can'show you to see a lot of books.
 
 Anna: And imagine how the cafeteria must be during breaks. It would be fun to find a seat among all the chatting students.
 
-Boba: Yes, it would Let's go in and take a closer look.
+Boba: Yes,  Let's go in and take a closer look.
 
 Act 2:
 
