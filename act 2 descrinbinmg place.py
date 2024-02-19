@@ -12,7 +12,7 @@ Boba: Absolutely. It feels like stepping into a world of knowledge
 
 Anna: Don't forget, we also need to explore their famous library.
 
-Boba: Of course! I can'show you to see the a lot of books.
+Boba: Of course! I can'show you to see a lot of books.
 
 Anna: And imagine how the cafeteria must be during breaks. It would be fun to find a seat among all the chatting students.
 
