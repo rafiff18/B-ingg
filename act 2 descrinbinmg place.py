@@ -4,94 +4,161 @@ r: morning bro  whats good!!
 
 n: morning bro, long time no see!
 
-r: are  you ready to explore this campus
+r: are  you ready to explore my campus
 
 N: waitt i A Bit Peckish, can we get some snack 
 
 r: sure, pick 1 canteen do you want to go!
 
-N: wait can you explain which one is better for snacking?
+N: can you explain which one is better for snacking?
 
-r: i think its difficult because we have 3 canteen here.
+r: i think its difficult because we have 2 canteen here.
 
 n: if you dont mind can we explore all of the canteen.
 
-r: 
+r: okey im free right now.
+
+n: letgooooo 
+
+r: sure,this way
+
+n: Wow, this canteen is very crowded
+
+r: Yes, that's right.do you want to see the menu first?
+
+n: ok no porblem.
+
+r: do you find somthing good.
+
+n: hmm, i think this just for lunch or breakfast.
+
+r:  some drink maybe?
+
+n: sure ,i want a coffee 1 do you want it to?
+
+r: i want orange juice please.
+
+n: Let's sit down and relax for a while.
+
+r: what do you think about this cantten?
+
+n: i think the cantten is comfort and clean.
+
+r: and then?
+
+n: my first impression about this cantten maybe this canteen look so nature. 
+
+r: what do you mean about nature?
+
+N: well because around this canteen there are so many trees and  the floor is a bit mossy
+
+r : oh, well thats true. because we dont have a gardener
+
+n : ow, that tv was so big ?
+
+r: yeah that's new 
+
+n: can we turn on the tv?
+
+r: nope its just a decoration. 
+
+n: that's worthless
+
+r: well its a gift from our seniors.
 
 
-[In the university cafeteria]
+[act 2]
 
-Anna: Wow, this cafeteria is really lively and bustling.
+n: I've finished my coffee,shall we go to the library?
 
-Boba: Yes, that's right. Whenever we're hungry, we can find something tasty to eat here.
+r: OK, let's go, it's already quite hot
 
-Anna: This campus is truly an amazing place for learning.
+N: is it far from here?
 
-Boba: I'm grateful to be part of this community.
+r:  Yeah, it's a bit far from here, but don't worry, I know the shortest way.
 
-Anna: Me too. It's great that you can share this experience to me, Boba.
+N: ok then letsgoo!
 
-Boba: Yes, it looks like the perfect place to relax after studying.
+r: The library is in these buildings
 
-Anna: I like the variety of food they offer.
+n: Wow, it looks so cool!
 
-Boba: Right. everything is here.
+r: yes,the modern architecture make it look very cool. letsgo in
 
-Anna: Let's sit down and relax for a while.
+n: is it upstair?
 
-Boba: Alright. After this, we can continue our discussion about your future plans.
+r: Yeah, the door is on the second floor. 
 
-Anna: Of course. But for now, I just want to enjoy the atmosphere of this cafeteria.
+n: Can I go in? I'm not a collage student here.
 
-Boba: I agree. The life of a student is never boring.
+r: Don't worry, it's okay if we just take a walk here as long as we don't borrow anything
 
-Anna: Absolutely. Let's enjoy this moment before getting back to our routines.
+n: ok then let's take a walk here.
 
+r: First of all, here is a computer we must use to fill out a form before entering this library.
 
-[dilluar bangungan]
+n: what should i fill in this form?
 
-Anna: Wow, this buildings looks so cool, doesn't it, Boba?
+r: just give your basic information
 
-Boba: Yes,the modern architecture make it look very cool.
+n: done,letsgo 
 
-Anna: I like how well-maintained the buildings are. 
+r: Next, we have a large round table for student discussion about their papers
 
-Boba: Absolutely. It feels like stepping into a world of knowledge
+n: What is this room for?
 
-Anna: Don't forget, we also need to explore their famous library.
+r: it is Collections of journals and proposals from lecturers and graduated students are stored here.
 
-Boba: Of course! I can'show you to see a lot of books.
+n: thats so amazing, we can use it for our references.
 
-Anna: And imagine how the cafeteria must be during breaks. It would be fun to find a seat among all the chatting students.
+r: and this is my favorite room.
 
-Boba: Yes,  Let's go in and take a closer look.
+n: what is it??
 
-Act 2:
+r: It's called the 'quiet room' where we can relax and privately read with our friends
 
-Anna: do you know where is the library?
+n: So, are we not allowed to talk here?"
 
-Boba: ofcourse i know
+r: not like that ,we still can talk but reduce ur voice.
 
-Anna: is it upstair?
-
-boba: no,just go ahead , it will be in right site of this hall
+n:
 
 [Inside the university library]
 
-Anna: Wow, the library is so organized. The books here must be very valuable.
+n: Wow, the library is so organized. The books here must be very valuable.
 
-Boba: That's right. I like how the quiet atmosphere .
+r: That's right. I like how the quiet atmosphere .
 
-Anna: Look, there are many students sitting seriously reading and researching.
+n: Look, there are many students sitting seriously reading and researching.
 
-Boba: It seems like the perfect place to find references for your future assignments.
+r: It seems like the perfect place to find references for your future assignments.
 
-Anna: Yes, and I also heard that they have access to the latest academic journals.
+n: Yes, and I also heard that they have access to the latest academic journals.
 
-Boba: That's great. It will help us in writing our papers.
+r: That's great. It will help us in writing our papers.
 
-Anna: Let's explore this room even further.
+n: Let's explore this room even further.
 
-Boba: I agree. There must be a lot of knowledge waiting for us to discover here.
+r: I agree. There must be a lot of knowledge waiting for us to discover here.
 
 Act 3:
+
+[dilluar bangungan]
+
+n: Wow, this buildings looks so cool, doesn't it, r?
+
+r: Yes,the modern architecture make it look very cool.
+
+n: I like how well-maintained the buildings are. 
+
+r: Absolutely. It feels like stepping into a world of knowledge
+
+n: Don't forget, we also need to explore their famous library.
+
+r: Of course! I can'show you to see a lot of books.
+
+n: And imagine how the cafeteria must be during breaks. It would be fun to find a seat among all the chatting students.
+
+r: Yes,  Let's go in and take a closer look.
+
+Act 2:
